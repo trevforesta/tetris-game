@@ -1,4 +1,5 @@
-![Tetris Logo](https://github.com/trevforesta/tetris-game/blob/main/src/assets/tetris-logo.png?raw=true)
+![Tetris Logo](https://github.com/trevforesta/tetris-game/blob/main/src/assets/tetris-logo.png?raw=true)  &nbsp;
+
 This repository contains a browser-friendly playable Tetris game. 
 Created in React 18.2 using CodeSandbox.io
 Author: [Trevor Foresta](https://github.com/trevforesta)
