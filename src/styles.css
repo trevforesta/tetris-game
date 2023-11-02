@@ -5,10 +5,10 @@
 }
 
 .App {
-  font-family: sans-serif;
+  font-family: "Courier New", Courier, monospace;
   text-align: center;
   color: #fff;
-  background-color: #406;
+  background-image: linear-gradient(to bottom right, #1738aa, darkblue);
   height: 100vh;
   padding: 20px;
 }

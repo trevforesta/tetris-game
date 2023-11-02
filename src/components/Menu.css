@@ -1,16 +1,27 @@
 .Menu {
-  display: flex;
   justify-content: center;
   align-items: center;
   min-height: 50vh;
   z-index: 100;
 }
 
+.Logo {
+  padding: 50px;
+}
+
 .Button {
-  padding: 40px 80px;
+  color: white;
+  background-color: #eb86c1;
+  padding: 20px 40px;
   font-size: 2em;
+  font-style: "Courier New";
   border-radius: 20px;
   border: none;
   box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 60px;
   cursor: pointer;
+}
+
+.Button:hover {
+  background-color: #e8007d;
+  transition: 0.25s;
 }
